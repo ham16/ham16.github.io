@@ -1,2 +1,5 @@
-# ham16.github.io
-道法自然
+CoreGraphics自聊。
+
+CGBitmapContext
+Describes an opaque type for managing drawing operations in a bitmap.
+
